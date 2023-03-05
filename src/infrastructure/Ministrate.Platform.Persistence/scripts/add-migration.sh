@@ -1,0 +1,1 @@
+dotnet ef migrations add -o Migrations\Core --context CoreDbContext -s ../../api/Ministrate.Platform.API/Ministrate.Platform.API.csproj $1

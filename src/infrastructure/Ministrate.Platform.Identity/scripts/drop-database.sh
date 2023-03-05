@@ -1,0 +1,1 @@
+dotnet ef database drop --context MinistrateIdentityDbContext -s ../../api/Ministrate.Platform.API/Ministrate.Platform.API.csproj

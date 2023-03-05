@@ -1,0 +1,1 @@
+dotnet ef database update --context CoreDbContext -s ../../api/Ministrate.Platform.API/Ministrate.Platform.API.csproj
