@@ -1,0 +1,5 @@
+2023-03-05 12:04:12.984 -05:00 [INF] Now listening on: http://localhost:5000
+2023-03-05 12:04:13.012 -05:00 [INF] Application started. Press Ctrl+C to shut down.
+2023-03-05 12:04:13.012 -05:00 [INF] Hosting environment: Production
+2023-03-05 12:04:13.012 -05:00 [INF] Content root path: /Users/shearogers/RiderProjects/Ministrate.Platform/src/api/Minsitrate.Platform.API
+2023-03-05 12:04:16.142 -05:00 [INF] Application is shutting down...
